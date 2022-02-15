@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbartl13
 - 👀 I’m interested in viral persistence and systems biology
-- 🌱 I’m currently learning multimodal single cell sequencing 
+- 🌱 I’m currently learning multimodal single cell sequencing and training students in bash/python/R
 - 💞️ I’m looking to collaborate on studies looking at viral and host omics
 - 📫 How to reach me: email mbartl13@jh.edu 
 
